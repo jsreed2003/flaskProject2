@@ -1,0 +1,182 @@
+2023-06-06 12:36:17,984 ********************** app log handler set up **************************
+2023-06-06 12:36:17,988  * Debugger is active!
+2023-06-06 12:36:17,996  * Debugger PIN: 116-803-376
+2023-06-06 12:36:23,415 127.0.0.1 - - [06/Jun/2023 12:36:23] "GET /resources HTTP/1.1" 200 -
+2023-06-06 12:36:23,444 Expired link or nonexistent page requested
+2023-06-06 12:36:23,458 Expired link or nonexistent page requested
+2023-06-06 12:36:23,459 Expired link or nonexistent page requested
+2023-06-06 12:36:23,462 Expired link or nonexistent page requested
+2023-06-06 12:36:23,464 127.0.0.1 - - [06/Jun/2023 12:36:23] "[33mGET /styles/bootstrap.css HTTP/1.1[0m" 404 -
+2023-06-06 12:36:23,465 127.0.0.1 - - [06/Jun/2023 12:36:23] "[33mGET /scripts/bootstrap.min.js HTTP/1.1[0m" 404 -
+2023-06-06 12:36:23,466 Expired link or nonexistent page requested
+2023-06-06 12:36:23,471 127.0.0.1 - - [06/Jun/2023 12:36:23] "[33mGET /fonts/css/fontawesome-all.min.css HTTP/1.1[0m" 404 -
+2023-06-06 12:36:23,474 127.0.0.1 - - [06/Jun/2023 12:36:23] "[33mGET /styles/style.css HTTP/1.1[0m" 404 -
+2023-06-06 12:36:23,476 127.0.0.1 - - [06/Jun/2023 12:36:23] "[33mGET /scripts/custom.js HTTP/1.1[0m" 404 -
+2023-06-06 12:36:23,887 Expired link or nonexistent page requested
+2023-06-06 12:36:23,889 127.0.0.1 - - [06/Jun/2023 12:36:23] "[33mGET /_manifest.json HTTP/1.1[0m" 404 -
+2023-06-06 12:36:23,891 Expired link or nonexistent page requested
+2023-06-06 12:36:23,893 127.0.0.1 - - [06/Jun/2023 12:36:23] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-06-06 12:36:27,205 Expired link or nonexistent page requested
+2023-06-06 12:36:27,207 127.0.0.1 - - [06/Jun/2023 12:36:27] "[33mGET /index.html HTTP/1.1[0m" 404 -
+2023-06-06 12:36:27,238 Expired link or nonexistent page requested
+2023-06-06 12:36:27,239 127.0.0.1 - - [06/Jun/2023 12:36:27] "[33mGET /static/styles/bootstrap.css HTTP/1.1[0m" 404 -
+2023-06-06 12:36:27,243 Expired link or nonexistent page requested
+2023-06-06 12:36:27,244 Expired link or nonexistent page requested
+2023-06-06 12:36:27,247 Expired link or nonexistent page requested
+2023-06-06 12:36:27,249 127.0.0.1 - - [06/Jun/2023 12:36:27] "[33mGET /static/fonts/css/fontawesome-all.min.css HTTP/1.1[0m" 404 -
+2023-06-06 12:36:27,249 Expired link or nonexistent page requested
+2023-06-06 12:36:27,250 127.0.0.1 - - [06/Jun/2023 12:36:27] "[33mGET /static/styles/style.css HTTP/1.1[0m" 404 -
+2023-06-06 12:36:27,251 127.0.0.1 - - [06/Jun/2023 12:36:27] "[33mGET /static/scripts/bootstrap.min.js HTTP/1.1[0m" 404 -
+2023-06-06 12:36:27,252 127.0.0.1 - - [06/Jun/2023 12:36:27] "[33mGET /static/scripts/custom.js HTTP/1.1[0m" 404 -
+2023-06-06 12:36:27,272 Expired link or nonexistent page requested
+2023-06-06 12:36:27,273 127.0.0.1 - - [06/Jun/2023 12:36:27] "[33mGET /static/manifest.json HTTP/1.1[0m" 404 -
+2023-06-06 12:36:27,277 Expired link or nonexistent page requested
+2023-06-06 12:36:27,278 127.0.0.1 - - [06/Jun/2023 12:36:27] "[33mGET /static/images/gsi-Industrial-logo-192x192.png HTTP/1.1[0m" 404 -
+2023-06-06 12:36:29,018 127.0.0.1 - - [06/Jun/2023 12:36:29] "GET / HTTP/1.1" 200 -
+2023-06-06 12:36:29,048 Expired link or nonexistent page requested
+2023-06-06 12:36:29,052 Expired link or nonexistent page requested
+2023-06-06 12:36:29,053 127.0.0.1 - - [06/Jun/2023 12:36:29] "[33mGET /static/styles/bootstrap.css HTTP/1.1[0m" 404 -
+2023-06-06 12:36:29,055 Expired link or nonexistent page requested
+2023-06-06 12:36:29,056 127.0.0.1 - - [06/Jun/2023 12:36:29] "[33mGET /static/styles/style.css HTTP/1.1[0m" 404 -
+2023-06-06 12:36:29,057 127.0.0.1 - - [06/Jun/2023 12:36:29] "[33mGET /static/fonts/css/fontawesome-all.min.css HTTP/1.1[0m" 404 -
+2023-06-06 12:36:29,059 Expired link or nonexistent page requested
+2023-06-06 12:36:29,062 Expired link or nonexistent page requested
+2023-06-06 12:36:29,062 Expired link or nonexistent page requested
+2023-06-06 12:36:29,063 127.0.0.1 - - [06/Jun/2023 12:36:29] "[33mGET /static/scripts/bootstrap.min.js HTTP/1.1[0m" 404 -
+2023-06-06 12:36:29,064 127.0.0.1 - - [06/Jun/2023 12:36:29] "[33mGET /static/images/gsi-Industrial-logo-192x192.png HTTP/1.1[0m" 404 -
+2023-06-06 12:36:29,064 127.0.0.1 - - [06/Jun/2023 12:36:29] "[33mGET /static/scripts/custom.js HTTP/1.1[0m" 404 -
+2023-06-06 12:36:29,085 Expired link or nonexistent page requested
+2023-06-06 12:36:29,086 127.0.0.1 - - [06/Jun/2023 12:36:29] "[33mGET /static/manifest.json HTTP/1.1[0m" 404 -
+2023-06-06 12:36:30,917 127.0.0.1 - - [06/Jun/2023 12:36:30] "GET /resources HTTP/1.1" 200 -
+2023-06-06 12:36:30,944 Expired link or nonexistent page requested
+2023-06-06 12:36:30,946 127.0.0.1 - - [06/Jun/2023 12:36:30] "[33mGET /styles/bootstrap.css HTTP/1.1[0m" 404 -
+2023-06-06 12:36:30,947 Expired link or nonexistent page requested
+2023-06-06 12:36:30,969 Expired link or nonexistent page requested
+2023-06-06 12:36:30,969 Expired link or nonexistent page requested
+2023-06-06 12:36:30,970 Expired link or nonexistent page requested
+2023-06-06 12:36:30,971 127.0.0.1 - - [06/Jun/2023 12:36:30] "[33mGET /scripts/bootstrap.min.js HTTP/1.1[0m" 404 -
+2023-06-06 12:36:30,971 127.0.0.1 - - [06/Jun/2023 12:36:30] "[33mGET /styles/style.css HTTP/1.1[0m" 404 -
+2023-06-06 12:36:30,972 127.0.0.1 - - [06/Jun/2023 12:36:30] "[33mGET /fonts/css/fontawesome-all.min.css HTTP/1.1[0m" 404 -
+2023-06-06 12:36:30,972 127.0.0.1 - - [06/Jun/2023 12:36:30] "[33mGET /scripts/custom.js HTTP/1.1[0m" 404 -
+2023-06-06 12:36:30,996 Expired link or nonexistent page requested
+2023-06-06 12:36:30,997 127.0.0.1 - - [06/Jun/2023 12:36:30] "[33mGET /_manifest.json HTTP/1.1[0m" 404 -
+2023-06-06 12:37:30,767 127.0.0.1 - - [06/Jun/2023 12:37:30] "GET /resources HTTP/1.1" 200 -
+2023-06-06 12:37:30,795 Expired link or nonexistent page requested
+2023-06-06 12:37:30,797 127.0.0.1 - - [06/Jun/2023 12:37:30] "[33mGET /styles/bootstrap.css HTTP/1.1[0m" 404 -
+2023-06-06 12:37:30,799 Expired link or nonexistent page requested
+2023-06-06 12:37:30,800 127.0.0.1 - - [06/Jun/2023 12:37:30] "[33mGET /styles/style.css HTTP/1.1[0m" 404 -
+2023-06-06 12:37:30,803 Expired link or nonexistent page requested
+2023-06-06 12:37:30,804 127.0.0.1 - - [06/Jun/2023 12:37:30] "[33mGET /fonts/css/fontawesome-all.min.css HTTP/1.1[0m" 404 -
+2023-06-06 12:37:30,806 Expired link or nonexistent page requested
+2023-06-06 12:37:30,809 Expired link or nonexistent page requested
+2023-06-06 12:37:30,810 127.0.0.1 - - [06/Jun/2023 12:37:30] "[33mGET /scripts/bootstrap.min.js HTTP/1.1[0m" 404 -
+2023-06-06 12:37:30,811 127.0.0.1 - - [06/Jun/2023 12:37:30] "[33mGET /scripts/custom.js HTTP/1.1[0m" 404 -
+2023-06-06 12:37:30,860 Expired link or nonexistent page requested
+2023-06-06 12:37:30,863 127.0.0.1 - - [06/Jun/2023 12:37:30] "[33mGET /_manifest.json HTTP/1.1[0m" 404 -
+2023-06-06 12:37:30,864 Expired link or nonexistent page requested
+2023-06-06 12:37:30,867 127.0.0.1 - - [06/Jun/2023 12:37:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-06-06 12:38:09,638 127.0.0.1 - - [06/Jun/2023 12:38:09] "GET /resources HTTP/1.1" 200 -
+2023-06-06 12:38:09,660 Expired link or nonexistent page requested
+2023-06-06 12:38:09,662 127.0.0.1 - - [06/Jun/2023 12:38:09] "[33mGET /styles/bootstrap.css HTTP/1.1[0m" 404 -
+2023-06-06 12:38:09,664 Expired link or nonexistent page requested
+2023-06-06 12:38:09,667 127.0.0.1 - - [06/Jun/2023 12:38:09] "[33mGET /styles/style.css HTTP/1.1[0m" 404 -
+2023-06-06 12:38:09,669 Expired link or nonexistent page requested
+2023-06-06 12:38:09,671 Expired link or nonexistent page requested
+2023-06-06 12:38:09,673 127.0.0.1 - - [06/Jun/2023 12:38:09] "[33mGET /fonts/css/fontawesome-all.min.css HTTP/1.1[0m" 404 -
+2023-06-06 12:38:09,675 Expired link or nonexistent page requested
+2023-06-06 12:38:09,676 127.0.0.1 - - [06/Jun/2023 12:38:09] "[33mGET /scripts/bootstrap.min.js HTTP/1.1[0m" 404 -
+2023-06-06 12:38:09,678 127.0.0.1 - - [06/Jun/2023 12:38:09] "[33mGET /scripts/custom.js HTTP/1.1[0m" 404 -
+2023-06-06 12:38:09,723 Expired link or nonexistent page requested
+2023-06-06 12:38:09,724 127.0.0.1 - - [06/Jun/2023 12:38:09] "[33mGET /_manifest.json HTTP/1.1[0m" 404 -
+2023-06-06 12:38:09,726 Expired link or nonexistent page requested
+2023-06-06 12:38:09,730 127.0.0.1 - - [06/Jun/2023 12:38:09] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-06-06 12:38:11,289 127.0.0.1 - - [06/Jun/2023 12:38:11] "GET /courses HTTP/1.1" 200 -
+2023-06-06 12:38:11,330 Expired link or nonexistent page requested
+2023-06-06 12:38:11,332 Expired link or nonexistent page requested
+2023-06-06 12:38:11,334 127.0.0.1 - - [06/Jun/2023 12:38:11] "[33mGET /fonts/css/fontawesome-all.min.css HTTP/1.1[0m" 404 -
+2023-06-06 12:38:11,334 127.0.0.1 - - [06/Jun/2023 12:38:11] "[33mGET /styles/bootstrap.css HTTP/1.1[0m" 404 -
+2023-06-06 12:38:11,336 Expired link or nonexistent page requested
+2023-06-06 12:38:11,337 Expired link or nonexistent page requested
+2023-06-06 12:38:11,340 Expired link or nonexistent page requested
+2023-06-06 12:38:11,343 127.0.0.1 - - [06/Jun/2023 12:38:11] "[33mGET /styles/style.css HTTP/1.1[0m" 404 -
+2023-06-06 12:38:11,344 127.0.0.1 - - [06/Jun/2023 12:38:11] "[33mGET /scripts/bootstrap.min.js HTTP/1.1[0m" 404 -
+2023-06-06 12:38:11,345 Expired link or nonexistent page requested
+2023-06-06 12:38:11,347 Expired link or nonexistent page requested
+2023-06-06 12:38:11,348 127.0.0.1 - - [06/Jun/2023 12:38:11] "[33mGET /scripts/custom.js HTTP/1.1[0m" 404 -
+2023-06-06 12:38:11,350 Expired link or nonexistent page requested
+2023-06-06 12:38:11,351 127.0.0.1 - - [06/Jun/2023 12:38:11] "[33mGET /images/pictures/16s.jpg HTTP/1.1[0m" 404 -
+2023-06-06 12:38:11,352 Expired link or nonexistent page requested
+2023-06-06 12:38:11,352 127.0.0.1 - - [06/Jun/2023 12:38:11] "[33mGET /images/pictures/faces/1s.png HTTP/1.1[0m" 404 -
+2023-06-06 12:38:11,353 127.0.0.1 - - [06/Jun/2023 12:38:11] "[33mGET /images/pictures/14s.jpg HTTP/1.1[0m" 404 -
+2023-06-06 12:38:11,354 127.0.0.1 - - [06/Jun/2023 12:38:11] "[33mGET /images/pictures/17s.jpg HTTP/1.1[0m" 404 -
+2023-06-06 12:38:11,375 Expired link or nonexistent page requested
+2023-06-06 12:38:11,377 127.0.0.1 - - [06/Jun/2023 12:38:11] "[33mGET /_manifest.json HTTP/1.1[0m" 404 -
+2023-06-06 12:42:53,929 127.0.0.1 - - [06/Jun/2023 12:42:53] "GET /courses HTTP/1.1" 200 -
+2023-06-06 12:42:53,962 Expired link or nonexistent page requested
+2023-06-06 12:42:53,964 127.0.0.1 - - [06/Jun/2023 12:42:53] "[33mGET /styles/bootstrap.css HTTP/1.1[0m" 404 -
+2023-06-06 12:42:53,971 Expired link or nonexistent page requested
+2023-06-06 12:42:53,973 127.0.0.1 - - [06/Jun/2023 12:42:53] "[33mGET /styles/style.css HTTP/1.1[0m" 404 -
+2023-06-06 12:42:53,975 Expired link or nonexistent page requested
+2023-06-06 12:42:53,977 127.0.0.1 - - [06/Jun/2023 12:42:53] "[33mGET /fonts/css/fontawesome-all.min.css HTTP/1.1[0m" 404 -
+2023-06-06 12:42:53,980 Expired link or nonexistent page requested
+2023-06-06 12:42:53,983 Expired link or nonexistent page requested
+2023-06-06 12:42:53,985 127.0.0.1 - - [06/Jun/2023 12:42:53] "[33mGET /scripts/bootstrap.min.js HTTP/1.1[0m" 404 -
+2023-06-06 12:42:53,988 127.0.0.1 - - [06/Jun/2023 12:42:53] "[33mGET /scripts/custom.js HTTP/1.1[0m" 404 -
+2023-06-06 12:42:53,991 Expired link or nonexistent page requested
+2023-06-06 12:42:53,992 127.0.0.1 - - [06/Jun/2023 12:42:53] "[33mGET /images/pictures/faces/1s.png HTTP/1.1[0m" 404 -
+2023-06-06 12:42:53,995 Expired link or nonexistent page requested
+2023-06-06 12:42:53,997 Expired link or nonexistent page requested
+2023-06-06 12:42:53,997 127.0.0.1 - - [06/Jun/2023 12:42:53] "[33mGET /images/pictures/14s.jpg HTTP/1.1[0m" 404 -
+2023-06-06 12:42:53,998 127.0.0.1 - - [06/Jun/2023 12:42:53] "[33mGET /images/pictures/16s.jpg HTTP/1.1[0m" 404 -
+2023-06-06 12:42:53,999 Expired link or nonexistent page requested
+2023-06-06 12:42:54,000 127.0.0.1 - - [06/Jun/2023 12:42:54] "[33mGET /images/pictures/17s.jpg HTTP/1.1[0m" 404 -
+2023-06-06 12:42:54,413 Expired link or nonexistent page requested
+2023-06-06 12:42:54,415 Expired link or nonexistent page requested
+2023-06-06 12:42:54,416 127.0.0.1 - - [06/Jun/2023 12:42:54] "[33mGET /_manifest.json HTTP/1.1[0m" 404 -
+2023-06-06 12:42:54,417 127.0.0.1 - - [06/Jun/2023 12:42:54] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-06-06 12:43:01,989 127.0.0.1 - - [06/Jun/2023 12:43:01] "GET /DC-electronics HTTP/1.1" 200 -
+2023-06-06 12:43:02,015 Expired link or nonexistent page requested
+2023-06-06 12:43:02,018 127.0.0.1 - - [06/Jun/2023 12:43:02] "[33mGET /styles/bootstrap.css HTTP/1.1[0m" 404 -
+2023-06-06 12:43:02,020 Expired link or nonexistent page requested
+2023-06-06 12:43:02,022 Expired link or nonexistent page requested
+2023-06-06 12:43:02,024 127.0.0.1 - - [06/Jun/2023 12:43:02] "[33mGET /styles/style.css HTTP/1.1[0m" 404 -
+2023-06-06 12:43:02,025 127.0.0.1 - - [06/Jun/2023 12:43:02] "[33mGET /fonts/css/fontawesome-all.min.css HTTP/1.1[0m" 404 -
+2023-06-06 12:43:02,039 Expired link or nonexistent page requested
+2023-06-06 12:43:02,041 Expired link or nonexistent page requested
+2023-06-06 12:43:02,044 127.0.0.1 - - [06/Jun/2023 12:43:02] "[33mGET /scripts/custom.js HTTP/1.1[0m" 404 -
+2023-06-06 12:43:02,045 127.0.0.1 - - [06/Jun/2023 12:43:02] "[33mGET /scripts/bootstrap.min.js HTTP/1.1[0m" 404 -
+2023-06-06 12:43:02,049 Expired link or nonexistent page requested
+2023-06-06 12:43:02,049 127.0.0.1 - - [06/Jun/2023 12:43:02] "[33mGET /images/pictures/11w.jpg HTTP/1.1[0m" 404 -
+2023-06-06 12:43:02,052 Expired link or nonexistent page requested
+2023-06-06 12:43:02,054 127.0.0.1 - - [06/Jun/2023 12:43:02] "[33mGET /images/empty.png HTTP/1.1[0m" 404 -
+2023-06-06 12:43:03,490 Expired link or nonexistent page requested
+2023-06-06 12:43:03,497 127.0.0.1 - - [06/Jun/2023 12:43:03] "[33mGET /_manifest.json HTTP/1.1[0m" 404 -
+2023-06-06 12:43:04,322 Expired link or nonexistent page requested
+2023-06-06 12:43:04,323 127.0.0.1 - - [06/Jun/2023 12:43:04] "[33mGET /_manifest.json HTTP/1.1[0m" 404 -
+2023-06-06 12:43:04,333 Expired link or nonexistent page requested
+2023-06-06 12:43:04,335 127.0.0.1 - - [06/Jun/2023 12:43:04] "[33mGET /styles/bootstrap.css HTTP/1.1[0m" 404 -
+2023-06-06 12:43:04,348 Expired link or nonexistent page requested
+2023-06-06 12:43:04,349 127.0.0.1 - - [06/Jun/2023 12:43:04] "[33mGET /styles/style.css HTTP/1.1[0m" 404 -
+2023-06-06 12:43:04,350 Expired link or nonexistent page requested
+2023-06-06 12:43:04,352 Expired link or nonexistent page requested
+2023-06-06 12:43:04,353 127.0.0.1 - - [06/Jun/2023 12:43:04] "[33mGET /fonts/css/fontawesome-all.min.css HTTP/1.1[0m" 404 -
+2023-06-06 12:43:04,354 127.0.0.1 - - [06/Jun/2023 12:43:04] "[33mGET /_manifest.json HTTP/1.1[0m" 404 -
+2023-06-06 12:43:15,317 127.0.0.1 - - [06/Jun/2023 12:43:15] "GET /DC-electronics HTTP/1.1" 200 -
+2023-06-06 12:43:15,374 Expired link or nonexistent page requested
+2023-06-06 12:43:15,375 127.0.0.1 - - [06/Jun/2023 12:43:15] "[33mGET /styles/bootstrap.css HTTP/1.1[0m" 404 -
+2023-06-06 12:43:15,386 Expired link or nonexistent page requested
+2023-06-06 12:43:15,388 Expired link or nonexistent page requested
+2023-06-06 12:43:15,390 Expired link or nonexistent page requested
+2023-06-06 12:43:15,391 Expired link or nonexistent page requested
+2023-06-06 12:43:15,393 Expired link or nonexistent page requested
+2023-06-06 12:43:15,394 127.0.0.1 - - [06/Jun/2023 12:43:15] "[33mGET /fonts/css/fontawesome-all.min.css HTTP/1.1[0m" 404 -
+2023-06-06 12:43:15,395 127.0.0.1 - - [06/Jun/2023 12:43:15] "[33mGET /styles/style.css HTTP/1.1[0m" 404 -
+2023-06-06 12:43:15,396 Expired link or nonexistent page requested
+2023-06-06 12:43:15,397 127.0.0.1 - - [06/Jun/2023 12:43:15] "[33mGET /scripts/bootstrap.min.js HTTP/1.1[0m" 404 -
+2023-06-06 12:43:15,399 127.0.0.1 - - [06/Jun/2023 12:43:15] "[33mGET /scripts/custom.js HTTP/1.1[0m" 404 -
+2023-06-06 12:43:15,399 127.0.0.1 - - [06/Jun/2023 12:43:15] "[33mGET /images/pictures/11w.jpg HTTP/1.1[0m" 404 -
+2023-06-06 12:43:15,404 127.0.0.1 - - [06/Jun/2023 12:43:15] "[33mGET /images/empty.png HTTP/1.1[0m" 404 -
+2023-06-06 12:43:15,913 Expired link or nonexistent page requested
+2023-06-06 12:43:15,915 127.0.0.1 - - [06/Jun/2023 12:43:15] "[33mGET /_manifest.json HTTP/1.1[0m" 404 -
+2023-06-06 12:43:21,173 Expired link or nonexistent page requested
+2023-06-06 12:43:21,174 127.0.0.1 - - [06/Jun/2023 12:43:21] "[33mGET /_manifest.json HTTP/1.1[0m" 404 -
